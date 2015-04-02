@@ -31,26 +31,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.75" vertical-offset="459" max-vertical-offset="4365">
+            <state vertical-scroll-proportion="0.73702425" vertical-offset="459" max-vertical-offset="4380">
               <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
               <folding>
-                <marker date="1427988045000" expanded="true" signature="963:1012" placeholder="..." />
-                <marker date="1427988045000" expanded="true" signature="986:1012" placeholder="..." />
-                <marker date="1427988045000" expanded="true" signature="1010:1012" placeholder="..." />
+                <marker date="1427990357000" expanded="true" signature="963:1012" placeholder="..." />
+                <marker date="1427990357000" expanded="true" signature="986:1012" placeholder="..." />
+                <marker date="1427990357000" expanded="true" signature="1010:1012" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index_1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.02538071" vertical-offset="0" max-vertical-offset="591">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -126,6 +116,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -404,23 +395,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.75" vertical-offset="459" max-vertical-offset="4365">
-          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
-          <folding>
-            <marker date="1427988045000" expanded="true" signature="963:1012" placeholder="..." />
-            <marker date="1427988045000" expanded="true" signature="986:1012" placeholder="..." />
-            <marker date="1427988045000" expanded="true" signature="1010:1012" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.02538071" vertical-offset="0" max-vertical-offset="591">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73702425" vertical-offset="459" max-vertical-offset="4380">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding>
+            <marker date="1427990357000" expanded="true" signature="963:1012" placeholder="..." />
+            <marker date="1427990357000" expanded="true" signature="986:1012" placeholder="..." />
+            <marker date="1427990357000" expanded="true" signature="1010:1012" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
